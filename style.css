@@ -1,0 +1,40 @@
+body {
+    background-color: #fff6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana;
+    color: #333;
+}
+
+.bg-custom-purple {
+    background-color: #b28ddb;
+}
+
+.bg-custom-dark {
+    background-color: #6a4c93;
+}
+
+h1, h2 {
+    color: #4b3b65;
+}
+
+a.btn {
+    background-color: #f6e9ff;
+    border-color: #e4cfff;
+    color: #4b3b65;
+    font-weight: 500;
+}
+
+a.btn:hover {
+    background-color: #e4d4ff;
+    color: #321d47;
+}
+
+.card {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+.card-img-top {
+    border-radius: 10px 10px 0 0;
+    max-height: 300px;
+    object-fit: cover;
+}
